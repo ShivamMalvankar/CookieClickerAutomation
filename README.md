@@ -130,9 +130,3 @@ Created by **Shivam Malvankar**
 If you like this project, give it a ⭐ on GitHub!
 
 ---
-
-If you want, I can also:
-
-* customize it with your exact code structure
-* add badges (build, Python version, etc.)
-* make it look **super premium like top GitHub repos** 🚀
